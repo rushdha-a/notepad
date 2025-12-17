@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": notepad,
+  "version": "1.0",
+  "description": "note taking assist",
+  "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+  },
+  "permissions": [
+      "storage"
+  ]
+}
+  
