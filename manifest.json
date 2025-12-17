@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": notepad,
+  "name": "notepad",
   "version": "1.0",
   "description": "note taking assist",
   "action": {
